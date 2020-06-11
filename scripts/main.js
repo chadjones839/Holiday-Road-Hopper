@@ -1,15 +1,15 @@
 
-  import API from "./Settings.js"
+//   import API from "./Settings.js"
 
-getEateryData().then(
-    () => {
-        eateryList()
-    }
-)
+// getEateryData().then(
+//     () => {
+//         eateryList()
+//     }
+// )
 
 
- userInputParks();
- myUserInputSearch(API);
+//  userInputParks();
+//  myUserInputSearch(API);
 
 
 
@@ -25,5 +25,5 @@ getAttractions()
     )
 
 
- parkWeatherData.linkGenerator()
+//  parkWeatherData.linkGenerator()
     
